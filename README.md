@@ -4,4 +4,4 @@
 
 ## 语言版本
 - [中文说明](https://github.com/ted-li-git/24point-game/blob/main/README-zh.md)
-- [English Instructions](https://github.com/ted-li-git/24point-game/blob/main/README-en.md))
+- [English Instructions](https://github.com/ted-li-git/24point-game/blob/main/README-en.md)
